@@ -38,4 +38,4 @@ phases:
 artifacts:
   files:
     - imagedefinition.json
-    - target/tweetapp-data-api.jar
+    - target/sample-codebuild.jar
